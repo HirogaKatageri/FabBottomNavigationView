@@ -3,22 +3,22 @@
 
     <item
         android:icon="@drawable/ic_android"
-        android:title="@null" />
+        android:title="A" />
 
     <item
         android:icon="@drawable/ic_android"
-        android:title="@null" />
+        android:title="B" />
 
     <item
         android:enabled="false"
-        android:title="@null" />
+        android:title="" />
 
     <item
         android:icon="@drawable/ic_android"
-        android:title="@null" />
+        android:title="D" />
 
     <item
         android:icon="@drawable/ic_android"
-        android:title="@null" />
+        android:title="E" />
 
 </menu>
